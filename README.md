@@ -23,3 +23,5 @@ Speech-Processing/
   ```
     jupyter notebook SER_Model.ipynb
   ```
+## Results
+-Accuracy: 87%
